@@ -1,0 +1,17 @@
+development:
+  host: localhost
+  adapter: postgresql
+  database: hhsoftwaresolutions_development
+
+staging:
+  adapter: postgresql
+  database: hhsoftwaresolutions_staging
+
+production:
+  adapter: postgresql
+  database: hhsoftwaresolutions_production
+
+test:
+  host: localhost
+  adapter: postgresql
+  database: hhsoftwaresolutions_test

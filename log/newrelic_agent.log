@@ -1,0 +1,73 @@
+# Logfile created on 2013-11-10 15:46:12 -0600 by logger.rb/36483
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Starting the New Relic agent in "development" environment.
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Reading configuration from 
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] ERROR : Unable to read configuration file : Is a directory - /Users/Trevor/Work/HHSoftwareSolutions
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Enabling the Request Sampler.
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Enabling the Request Sampler.
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Environment: development
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] INFO : No known dispatcher detected.
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Application: development
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Installing ActiveRecord 4 instrumentation
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Installing Net instrumentation
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Installing deferred Rack instrumentation
+[11/10/13 15:46:12 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Installing Rails 4 Controller instrumentation
+[11/10/13 15:46:13 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Installing Rails 4 view instrumentation
+[11/10/13 15:46:13 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Installing Rails4 Error instrumentation
+[11/10/13 15:46:13 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Finished instrumentation
+[11/10/13 15:46:13 -0600 Trevors-MacBook-Pro.local (90310)] INFO : Doing deferred dependency-detection before Rack startup
+[11/10/13 15:47:26 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Starting the New Relic agent in "development" environment.
+[11/10/13 15:47:26 -0600 Trevors-MacBook-Pro.local (90463)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/10/13 15:47:26 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Reading configuration from 
+[11/10/13 15:47:26 -0600 Trevors-MacBook-Pro.local (90463)] ERROR : Unable to read configuration file : Is a directory - /Users/Trevor/Work/HHSoftwareSolutions
+[11/10/13 15:47:26 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Enabling the Request Sampler.
+[11/10/13 15:47:26 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Enabling the Request Sampler.
+[11/10/13 15:47:26 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Environment: development
+[11/10/13 15:47:26 -0600 Trevors-MacBook-Pro.local (90463)] INFO : No known dispatcher detected.
+[11/10/13 15:47:26 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Application: development
+[11/10/13 15:47:26 -0600 Trevors-MacBook-Pro.local (90463)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[11/10/13 15:47:27 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Installing ActiveRecord 4 instrumentation
+[11/10/13 15:47:27 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Installing Net instrumentation
+[11/10/13 15:47:27 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Installing deferred Rack instrumentation
+[11/10/13 15:47:27 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Installing Rails 4 Controller instrumentation
+[11/10/13 15:47:27 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Installing Rails 4 view instrumentation
+[11/10/13 15:47:27 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Installing Rails4 Error instrumentation
+[11/10/13 15:47:27 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Finished instrumentation
+[11/10/13 15:47:27 -0600 Trevors-MacBook-Pro.local (90463)] INFO : Doing deferred dependency-detection before Rack startup
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Starting the New Relic agent in "development" environment.
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Reading configuration from 
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] ERROR : Unable to read configuration file : Is a directory - /Users/Trevor/Work/HHSoftwareSolutions
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Enabling the Request Sampler.
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Enabling the Request Sampler.
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Environment: development
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : No known dispatcher detected.
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Application: development
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Installing ActiveRecord 4 instrumentation
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Installing Net instrumentation
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Installing deferred Rack instrumentation
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Installing Rails 4 Controller instrumentation
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Installing Rails 4 view instrumentation
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Installing Rails4 Error instrumentation
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Finished instrumentation
+[11/10/13 15:53:15 -0600 Trevors-MacBook-Pro.local (90670)] INFO : Doing deferred dependency-detection before Rack startup
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Starting the New Relic agent in "development" environment.
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Reading configuration from 
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] ERROR : Unable to read configuration file : Is a directory - /Users/Trevor/Work/HHSoftwareSolutions
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Enabling the Request Sampler.
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Enabling the Request Sampler.
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Environment: development
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : No known dispatcher detected.
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Application: development
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Installing ActiveRecord 4 instrumentation
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Installing Net instrumentation
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Installing deferred Rack instrumentation
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Installing Rails 4 Controller instrumentation
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Installing Rails 4 view instrumentation
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Installing Rails4 Error instrumentation
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Finished instrumentation
+[11/10/13 15:54:49 -0600 Trevors-MacBook-Pro.local (90695)] INFO : Doing deferred dependency-detection before Rack startup

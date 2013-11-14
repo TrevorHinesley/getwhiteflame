@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <%= render 'shared/head' %>
+
+  <body>
+
+    <%= yield %>
+    <%= render 'shared/footer' %>
+
+    <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+
+    <%= yield :page_specific_js %>
+
+  </body>
+</html>
