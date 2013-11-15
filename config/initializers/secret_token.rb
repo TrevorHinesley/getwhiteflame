@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-HHSoftwareSolutions::Application.config.secret_key_base = '68087a9985b08f0c7e69dbcbb57087252fbf795a04d9bc2cf9ed176d2337a5555e3de8f3834271c986f5c19817d1ef1a7def2d9c63f3756cdc8e85bcfba2b39d'
+GetWhiteFlame::Application.config.secret_key_base = '68087a9985b08f0c7e69dbcbb57087252fbf795a04d9bc2cf9ed176d2337a5555e3de8f3834271c986f5c19817d1ef1a7def2d9c63f3756cdc8e85bcfba2b39d'

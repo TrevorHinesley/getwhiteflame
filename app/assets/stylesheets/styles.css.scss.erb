@@ -5,17 +5,48 @@ html, body {
   color: #fff;
 }
 
+.btn-custom {
+  margin-top: 20px;
+  background-color: transparent !important;
+  border: 3px solid #E5E5E5 !important;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #E5E5E5 !important;
+  opacity: 0.5;
+  -moz-box-shadow: 5px 5px 5px #444;
+  -webkit-box-shadow: 5px 5px 5px #444;
+  box-shadow: 5px 5px 5px #444;
+}
+
+.btn-custom:hover {
+  opacity: 1;
+}
+
 #main-bg {
   height: 100%;
   width: 100%;
-  background: url(<%=asset_path('hhss-logo.png')%>) no-repeat center center fixed; 
+  background: url(<%=asset_path('bg_textured.jpg')%>) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 
   .container {
-    padding-top: 40px;
+    padding-top: 5%;
+
+    .white-flame-artwork {
+      display: block;
+      max-width: 600px;
+      max-height: 600px;
+
+      img {
+        max-height: 100%;
+        max-width: 100%;
+        -moz-box-shadow: 0 0 40px #444;
+        -webkit-box-shadow: 0 0 40px #444;
+        box-shadow: 0 0 40px #444;
+      }
+    }
   }
 }
 

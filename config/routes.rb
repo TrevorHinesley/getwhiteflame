@@ -1,9 +1,12 @@
-HHSoftwareSolutions::Application.routes.draw do
+GetWhiteFlame::Application.routes.draw do
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
   root 'welcome#index'
+
+  get "/download_song" => "welcome#download_song"
+  get "/download_artwork" => "welcome#download_artwork"
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
