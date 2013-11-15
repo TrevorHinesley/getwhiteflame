@@ -2,7 +2,16 @@ html, body {
   height: 100%;
   width: 100%; 
   font-family: 'Open Sans', sans-serif;
-  color: #fff;
+  color: #E5E5E5;
+  background: url(<%=asset_path('bg_textured.jpg')%>) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+footer {
+  padding-top: 40px;
 }
 
 .btn-custom {
@@ -28,14 +37,7 @@ html, body {
   }
 }
 
-#main-bg {
-  height: 100%;
-  width: 100%;
-  background: url(<%=asset_path('bg_textured.jpg')%>) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+#main {
 
   .container {
     padding-top: 5%;
@@ -57,10 +59,10 @@ html, body {
 }
 
 a {
-  color: #00FF00;
+  color: #FFF ;
 
   &:hover{
-    color: #00FF00;
+    color: #FFF;
     text-decoration: none;
   }
 }

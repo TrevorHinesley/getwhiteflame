@@ -1,0 +1,14 @@
+.DS_Store
+
+*~
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+temp/
+*.swp
+dump.rdb
+
+public/assets
+
+public/system/*
