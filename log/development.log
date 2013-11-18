@@ -17194,3 +17194,205 @@ Started GET "/download_song" for 127.0.0.1 at 2013-11-18 17:14:08 -0600
 Processing by WelcomeController#download_song as HTML
 Sent file /Users/Trevor/Work/getwhiteflame/public/white-flame.wav (0.1ms)
 Completed 200 OK in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/download_song" for 127.0.0.1 at 2013-11-18 17:16:34 -0600
+Processing by WelcomeController#download_song as HTML
+Sent file /Users/Trevor/Work/getwhiteflame/public/white-flame.wav (0.0ms)
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/download_song" for 127.0.0.1 at 2013-11-18 17:16:35 -0600
+Processing by WelcomeController#download_song as HTML
+Sent file /Users/Trevor/Work/getwhiteflame/public/white-flame.wav (0.1ms)
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+  Rendered shared/_head.html.erb (2.9ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/white-flame-artwork-small.jpg" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/bg_textured.jpg" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2013-11-18 17:16:52 -0600
+
+
+Started GET "/download_song" for 127.0.0.1 at 2013-11-18 17:16:54 -0600
+Processing by WelcomeController#download_song as HTML
+Sent file /Users/Trevor/Work/getwhiteflame/public/white-flame.wav (0.1ms)
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/download_song" for 127.0.0.1 at 2013-11-18 17:16:55 -0600
+Processing by WelcomeController#download_song as HTML
+Sent file /Users/Trevor/Work/getwhiteflame/public/white-flame.wav (0.1ms)
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+  Rendered shared/_head.html.erb (2.8ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/white-flame-artwork-small.jpg" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/bg_textured.jpg" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-18 17:17:28 -0600
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2013-11-18 17:17:29 -0600
+
+
+Started GET "/download_song" for 127.0.0.1 at 2013-11-18 17:17:30 -0600
+Processing by WelcomeController#download_song as HTML
+Sent file /Users/Trevor/Work/getwhiteflame/public/white-flame.wav (0.1ms)
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/download_song" for 127.0.0.1 at 2013-11-18 17:17:31 -0600
+Processing by WelcomeController#download_song as HTML
+Sent file /Users/Trevor/Work/getwhiteflame/public/white-flame.wav (0.1ms)
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms)
