@@ -22424,3 +22424,252 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-18 21:36:23
 
 
 Started GET "/assets/favicon.ico" for 127.0.0.1 at 2013-11-18 21:36:23 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-18 21:42:48 -0600
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (34.7ms)
+  Rendered shared/_head.html.erb (986.6ms)
+  Rendered shared/_footer.html.erb (0.6ms)
+Completed 200 OK in 1137ms (Views: 1123.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/white-flame-artwork-small.jpg" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/bg_textured.jpg" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:49 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-18 21:42:50 -0600
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2013-11-18 21:42:50 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-18 21:43:03 -0600
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.1ms)
+  Rendered shared/_head.html.erb (1524.6ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 1539ms (Views: 1536.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/white-flame-artwork-small.jpg" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/bg_textured.jpg" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:04 -0600
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2013-11-18 21:43:05 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+  Rendered shared/_head.html.erb (2.8ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 13ms (Views: 11.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap.css?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/white-flame-artwork-small.jpg" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/bg_textured.jpg" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/holder.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-18 21:43:22 -0600
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2013-11-18 21:43:23 -0600
